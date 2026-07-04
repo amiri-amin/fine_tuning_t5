@@ -1,0 +1,7 @@
+# Core fine-tuning stack
+transformers>=4.30
+datasets>=2.10
+torch>=2.0
+sentencepiece>=0.1.99   # required by T5Tokenizer
+accelerate>=0.20        # backs the Hugging Face Trainer
+pandas>=1.5
