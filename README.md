@@ -173,7 +173,7 @@ If you use this code, please credit this repository and the underlying T5 model:
   author = {Amiri, Amin},
   title  = {T5 Fine-Tuning for Article Title Generation},
   year   = {2024},
-  url    = {https://github.com/<your-org>/fine_tuning_t5}
+  url    = {https://github.com/amiri-amin/fine_tuning_t5}
 }
 
 @article{raffel2020t5,
